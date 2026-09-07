@@ -40,7 +40,6 @@
 ## 5. Execução
 
 - **Período de execução:**
-- **Carga horária extensionista:** ____ h
 - **Atividades realizadas com a comunidade:** (lista curta, com datas)
 - **Disciplinas do curso aplicadas no projeto:**
 
